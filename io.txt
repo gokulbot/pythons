@@ -3,15 +3,15 @@ https://github.com/gokulbot/pythons.git
 import xml.etree.ElementTree as ET
 
 input = '''
-<stuff> hai to this new oppurtunity
-  <users>hrpppp
+<stuff> hai to this new oppurtu4:57 PM 10/1/20194:57 PM 10/1/20194:57 PM 10/1/2019nity
+  <users>
     <user x="2">
       <id>001</id>
       <name>Chuck</name>
     </user>..
     <user x="7">
       <id>009</id>
-      <name>Brent</name>dfsfsf
+      <name>Brent</name>
     </user>
   </users>
 </stuff>'''
