@@ -8,7 +8,7 @@ input = '''
     <user x="2">
       <id>001</id>
       <name>Chuck</name>
-    </user>
+    </user>..
     <user x="7">
       <id>009</id>
       <name>Brent</name>
